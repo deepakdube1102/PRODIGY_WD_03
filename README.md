@@ -1,1 +1,1 @@
-https://deepakdube1102.github.io/PRODIGY_WD_03/
+https://deepakdube1102.github.io/Tic-Tac-Toe/
